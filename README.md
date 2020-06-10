@@ -7,11 +7,11 @@
 
 # SET UP INSTRUCTIONS 
 ## STEP 1: 
-Run a git clone to with this command ```git clone https://<username>:<password>@gitlab.com/JeremiahHeir/stears-test.git``` on your terminal
+Run a git clone to with this command ```git clone https://github.com/jerryheir/testFullStack.git``` on your terminal
 Where `<username>` is your gitlab username and `<password>` is your gitlab password
 
 ## STEP 2:
-```cd stears-test```
+```cd testFullStack```
 
 ## STEP 3 (RUN APPLICATION): 
 ### Using docker-compose
