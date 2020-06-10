@@ -1,4 +1,4 @@
-# --- Stears Test --- 
+# --- Test --- 
 
 # Requirements:
 * node (npm and yarn) v2.0 and higher
@@ -146,5 +146,5 @@ Static Typing throughout project
 - ### Wrote a README ; )
 
 # FINAL NOTES (THOUGHTS AND CONSIDERATIONS)
-I loved the challenge which shows me the great individuals at Stears.
+I loved the challenge which shows me the great individuals that set up this test.
 Thank you for the opportunity. I hope to hear from you soon
