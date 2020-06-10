@@ -1,0 +1,8 @@
+{
+  "BuildNumber": "1",
+  "Systems": {
+    "STAGING": "Staging",
+    "SOCKET": "http://localhost:5000",
+    "API_VERSION": "/api/v1"
+  }
+}

@@ -1,0 +1,19 @@
+@font-face{
+    font-family: 'Muli';
+    src: url('../assets/fonts/Muli.ttf') format('truetype')
+}
+
+@font-face{
+    font-family: 'Muli-Bold';
+    src: url('../assets/fonts/Muli-Bold.ttf') format('truetype')
+}
+
+@font-face{
+    font-family: 'Muli-Light';
+    src: url('../assets/fonts/Muli-Light.ttf') format('truetype')
+}
+
+@font-face{
+    font-family: 'Muli-Italic';
+    src: url('../assets/fonts/Muli-Italic.ttf') format('truetype')
+}
